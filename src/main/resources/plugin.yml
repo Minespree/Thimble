@@ -1,5 +1,5 @@
 name: ThimblePlugin
-author: Doshy
+author: Minespree
 main: net.minespree.thimble.ThimblePlugin
 version: ${gitCommit}
 depend: [Rise]
